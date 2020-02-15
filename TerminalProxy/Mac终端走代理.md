@@ -59,5 +59,5 @@
    ```
 
    
- ![完整操作截图](https://github.com/XFX-939/MacTerminal/blob/master/TerminalProxy/ssr%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE.png)
+ ![完整操作截图](https://github.com/XFX-939/MacTerminal/blob/master/TerminalProxy/%E5%AE%8C%E6%95%B4%E6%93%8D%E4%BD%9C%E6%88%AA%E5%9B%BE.png)
 
