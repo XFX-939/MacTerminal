@@ -8,7 +8,7 @@
 
    在ssr高级设置中，查看socks5的监听地址与端口，并记录下来。
 
-   ![ssr高级设置](/Users/galaxylab/Pictures/md图片/ssr高级设置.png)
+   ![ssr高级设置](https://github.com/XFX-939/MacTerminal/blob/master/TerminalProxy/ssr%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE.png)
 
 2. ### 修改zshrc
 
@@ -59,4 +59,5 @@
    ```
 
    
+ ![完整操作截图](https://github.com/XFX-939/MacTerminal/blob/master/TerminalProxy/ssr%E9%AB%98%E7%BA%A7%E8%AE%BE%E7%BD%AE.png)
 
