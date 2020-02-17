@@ -16,7 +16,12 @@
    vim ～/.zshrc
    ```
 
-   
+   “～ ” 你的home目录，在OS X下位于/Users/你的用户名/
+
+   “.” 类unix下的隐藏文件，文件名带"."之后在GUI文件管理器和ls的默认设置下不会显示出来，使用ls －a命令可以显示出这些文件。
+
+   zshrc是一个文件，准确的说这个文件的文件名是".zshrc".
+   综上所述，这就是个配置文件的路径而已。
 
 3. ### 设置proxy list
 
@@ -59,5 +64,6 @@
    ```
 
    
+
  ![完整操作截图](https://github.com/XFX-939/MacTerminal/blob/master/TerminalProxy/%E5%AE%8C%E6%95%B4%E6%93%8D%E4%BD%9C%E6%88%AA%E5%9B%BE.png)
 
